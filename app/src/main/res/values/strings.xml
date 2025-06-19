@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">About Riko-chan</string>
+
+    <string name="name">Name</string>
+    <string name="description_background">Description Background</string>
+    <string name="description_personality">Description Personality</string>
+
+    <string name="unit">Unit</string>
+    <string name="subunit">Subunit</string>
+    <string name="school">School</string>
+    <string name="school_years">School Years</string>
+    <string name="birthday">Birthday</string>
+    <string name="astrological">Astrological</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="height">Height</string>
+
+    <string name="school_name">School Name</string>
+    <string name="school_years_name">School Years Name</string>
+    <string name="birthday_name">Birthday Name</string>
+    <string name="astrological_name">Astrological name</string>
+    <string name="blood_type_name">Blood Type Name</string>
+    <string name="height_name">Height Name</string>
+
+    <string name="changes_clothes">Changes Riko-chan Clothes</string>
+
+    <string name="all_clothes">All Riko-chan Clothes</string>
+    <string name="summer_uniform">Riko-chan summer uniform</string>
+    <string name="winter_uniform">Riko-chan winter uniform</string>
+    <string name="summer_private">Riko-chan summer private clothes</string>
+    <string name="winter_private">Riko-chan winter private clothes</string>
+    <string name="summer_noble">Riko-chan summer noble clothes</string>
+    <string name="winter_noble">Riko-chan winter noble clothes</string>
+
+    <string name="save">Save</string>
+
+</resources>
